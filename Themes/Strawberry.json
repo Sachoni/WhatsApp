@@ -1,18 +1,18 @@
 {
     "_JSON_": true,
-    "AUTHOR": "SamPandey001",
+    "AUTHOR": "Nzi",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": { 
     "updater": {  
-    "UPDATE": "Your bot is already on latest version Buddy",
+    "UPDATE": "Bot is on latest version",
     "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
     "UPDATED_LOCAL": "Fresh Updates Installed!"
     },      
     "global": {  
-    "botName": "𝐆𝐨𝐤𝐮",
+    "botName": "strawberry",
      
-    "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡", 
+    "body": "Nzi", 
     "greet2" : "Buddy",
     "pic1": "https://wallpapercave.com/dwp1x/wp9172946.jpg",
     "pic2": "https://wallpapercave.com/dwp1x/wp9173073.jpg",
@@ -28,21 +28,21 @@
     "gif5": "https://tenor.com/bSOTj.gif",
     "gif6": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
     "gif7": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
-    "greet" : "Hi, There", 
-    "dotbody" : "Stop me if you can.",
-    "promote": "A new worthy Saiyen arrived",
-    "pmallow": "Hii,This is Gohan\n*Father is Finding Dragon Balls.*\n seems like he is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
-    "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐨𝐤𝐮_",
-    "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐨𝐤𝐮*",
-    "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐨𝐤𝐮",
-    "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐨𝐤𝐮",
+    "greet" : "Hello", 
+    "dotbody" : "Strawberry.",
+    "promote": "new admin in town",
+    "pmallow": "Hii,This is strawberry*\n seems like he is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+    "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ Nzi_",
+    "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n * Nzi",
+    "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n Nzi",
+    "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n Nzi",
     "demote": "You are not Worthy like i imagined",
     "antlink": "Link Detected.\n*Good Bye Worthless saiyan*",
-    "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐨𝐤𝐮*",
-    "mention": " Please mention any user Onii-Chan",
-    "title": "𝐆𝐨𝐤𝐮-𝐦𝐝",
-    "footer": "𝐒𝐨𝐧-𝐆𝐨𝐤𝐮",
-    "by": "Made by: CitelVoid",
+    "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*Nzi*",
+    "mention": " Please mention any user ",
+    "title": "strawberry",
+    "footer": "Nzi-MD",
+    "by": "Made by: Nzi",
     "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
     "success": "Success ✓",
     "dot": "Hello Fighter, Why don't you try -help",
@@ -57,7 +57,7 @@
     "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
     },
     "error": {
-    "text": "Task Failed"
+    "text": " Failed"
     }
     }
     }
