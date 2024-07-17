@@ -1,19 +1,19 @@
 {
     "__JSON__": true,
-    "AUTHOR": "SamPandey001",
+    "AUTHOR": "Nzi",
     "LANGUAGE": "English",
-    "theme": "Genos",
+    "theme": "Mango",
     "LANGCODE": "en",
     "STRINGS": {   
         "updater": {  
-            "UPDATE": "*Your bot is already on latest version Master*",
+            "UPDATE": "*Botot is on latest version *",
             "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
             "UPDATED_LOCAL": "*Fresh Updates Installed!*"
         },       
         "global": { 
-            "botName": "𝐆𝐞𝐧𝐨𝐬",
-            "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
-            "greet2" : "Hey Master",
+            "botName": "Mango",
+            "body": "Nzi",
+            "greet2" : "Hello",
             "pic1": "https://images5.alphacoders.com/656/656718.jpg",
             "pic2": "https://i.pinimg.com/originals/4e/f4/9f/4ef49fa405a4973e1682c7fcdc68fe1c.jpg",
             "pic3": "https://wallpapers.com/images/high/one-punch-man-genos-f4kqtbew9cs5f1n1.jpg",
@@ -21,22 +21,22 @@
             "pic5": "https://wallpapercave.com/uwp/uwp923267.jpeg",
             "pic6": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcM5VjI_3jG888bD_2zLs0-xVsxBsdxkHnCw&usqp=CAU",
             "pic7": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2NPSrjipWFdmcEvF1moi2tQAMFI6hP-ZQw&usqp=CAU",
-             "greet" : "Master",
-           "dotbody" : "Stop me if you can.",
+             "greet" : "Hello",
+           "dotbody" : "Mango mango....",
             "emojii" : "🦾", 
             "promote": "Promoted as an Admin,Enjoy",
-            "pmallow": "*Hii,This is Genos*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
-            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐞𝐧𝐨𝐬_",
+            "pmallow": "*Hello,This is Mango*\n*An assistant of My Owner.*\nMy Owner is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ Mango",
             "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n * 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐞𝐧𝐨𝐬*",
-            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐞𝐧𝐨𝐬*", 
-            "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐞𝐧𝐨𝐬_",
+            "permited": "Hii ${tname} *\n\nNow You are permitted by my owner to pm now.\n\n *Mango*", 
+            "revoked" : "*Hii ${tname} *\n\nYour pm permit permission has been prevoked now.\n\n _Mango_",
             "demote": "Admin role retrieved",
-            "antlink": "Link Detected.\n*Good Bye Master*",
-            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐆𝐞𝐧𝐨𝐬*",
+            "antlink": "Link Detected.\n*Good Bye Dickhead*",
+            "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Nzi*",
             "mention": " Please mention any user Master",
-            "title": "𝐆𝐄𝐍𝐎𝐒-𝐦𝐝",
-            "footer": "𝐆𝐄𝐍𝐎𝐒-𝐂𝐘𝐁𝐎𝐑𝐆",
-            "by": "Made by: *CitelVoid*",
+            "title": "Nzi",
+            "footer": "Mango MD",
+            "by": "Made by: *Nzi*",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Success ✓",
             "dot": "Hello Master, why don't you try *help?*",
@@ -51,7 +51,7 @@
             "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
         },
         "error": {
-            "text": "*Task Failed*"
+            "text": "*Failed*"
         }
     }
   }
