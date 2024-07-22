@@ -25,7 +25,7 @@
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Nzi_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -145,10 +145,10 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Nzi-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use Nzi-Md at your own risk by keeping this warning in mind.*
 
 
 
-## NOTE: SUHAIL-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
+## NOTE: Nzi-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
