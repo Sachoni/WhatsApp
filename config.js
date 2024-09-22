@@ -6,22 +6,22 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 global.audio= "" ;  
 global.video= "" ;
 global.port =process.env.PORT
-global.appUrl=process.env.APP_URL || ""                       // put your app url here,
+global.appUrl=process.env.APP_URL || "postgresql://lyfee_data_redu_user:k6xTVbtrB1AMPz5uVYpnq1HXyqrm1nqh@dpg-crnh40e8ii6s73ergm00-a/lyfee_data_redu"                       // put your app url here,
 global.email ="wamukotajohnmark@gmail.com"
 global.location="BGM,Kenya."
 
 
-global.mongodb= process.env.MONGODB_URI || ""
+global.mongodb= process.env.MONGODB_URI || "mongodb+srv://theealfa360@cluster0.2peepls.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "null"
-global.DATABASE_URL = process.env.DATABASE_URL || ""
+global.DATABASE_URL = process.env.DATABASE_URL || "postgresql://lyfee_data_redu_user:k6xTVbtrB1AMPz5uVYpnq1HXyqrm1nqh@dpg-crnh40e8ii6s73ergm00-a/lyfee_data_redu"
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/Sachoni/Nzi/blob/main/lib/assets/Nzi%20MD%20pic.png"; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "Powered by Nzi" 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/Sachoni/WhatsApp/blob/8c37b2453bcc5bae135862812bee27acd89b3706/lib/assets/Screenshot_20240919_190110_CapCut.jpg"; // SET LOGO FOR IMAGE 
+global.caption = process.env.CAPTION || global.caption || "Powered by Mark" 
 
 
 global.devs = "254736429306" // Developer Contact
@@ -49,13 +49,13 @@ global.waPresence= process.env.WAPRESENCE ||  "null" ; // 'unavailable' | 'avail
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "true"
 global.readmessage = process.env.READ_MESSAGE || "true"
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null,254736429306";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "254736429306";
 
 
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
 global.read_status = process.env.AUTO_READ_STATUS || " true"
 global.save_status = process.env.AUTO_SAVE_STATUS || "true"
-global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,254736429306";
+global.save_status_from =  process.env.SAVE_STATUS_FROM  || "254736429306";
 global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254736429306";
 
 global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel.app" // expires
@@ -84,7 +84,7 @@ module.exports = {
   KOYEB_API : process.env.KOYEB_API  || "false",
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "",
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
+  GEMINI_API_KEY: process.env.GEMINI_API_KEY || "AIzaSyA9Uh-z84X-kEs09bo2apJUw7zb5MuIfN0",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   HEROKU_APP_NAME:process.env.HEROKU_APP_NAME|| "",
   antilink_values:process.env.ANTILINK_VALUES|| "all",
